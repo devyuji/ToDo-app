@@ -1,6 +1,6 @@
 html {
   background-color: #E4E9FD;
-  background-image: linear-gradient(to left top, rgba(168, 230, 207, 0.226),#cbe2b08c) , url("https://cdn.pixabay.com/photo/2016/11/29/04/42/conifer-1867371_960_720.jpg");
+  background-image: linear-gradient(to left bottom, rgba(168, 230, 207, 0.226),rgba(0, 128, 0, 0.411)) , url("https://cdn.pixabay.com/photo/2016/11/29/04/42/conifer-1867371_960_720.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
